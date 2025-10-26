@@ -1,16 +1,33 @@
-# github
+# 🧠 AI-Powered Personal Productivity Tracker
 
-A new Flutter project.
+A sleek, Flutter-based productivity tracker that uses **AI insights** to help you understand, analyze, and improve your daily habits.  
+Track tasks, visualize progress, and get smart suggestions to boost your focus and consistency — all in one place.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ **Smart Task Tracking** – Organize and complete tasks effortlessly  
+- 📊 **Visual Analytics Dashboard** – Beautiful bar charts using `fl_chart`  
+- 🤖 **AI Suggestions** – Personalized insights and focus recommendations  
+- 🔥 **Realtime Sync** – Backed by Firebase for live data  
+- 🌗 **Modern UI** – Clean, responsive design that works across web, mobile, and desktop
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧩 Tech Stack
+
+- **Flutter 3.x**  
+- **Dart**  
+- **Firebase Firestore & Auth**  
+- **fl_chart 1.1.1** for analytics  
+- **AI Service Layer** (OpenAI / Gemini / Custom model)
+
+---
+
+## ⚙️ Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/ai_productivity_tracker.git
+   cd ai_productivity_tracker
